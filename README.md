@@ -1,5 +1,5 @@
 # markov_rps_predictor
-A mini project no. 1 for Methods of Knowledge Engineering course at PJAIT that uses a Markov chain model to predict the next move in "rock paper scissors" & counter it.
+A pretty simple mini project no. 1 for Methods of Knowledge Engineering course at PJAIT that uses a Markov chain model to predict the next move in "rock paper scissors" & counter it.
 
 Installation:
 ```bash
