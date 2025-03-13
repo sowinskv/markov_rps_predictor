@@ -1,0 +1,14 @@
+{
+    "rock": {
+        "paper": 2,
+        "rock": 1
+    },
+    "paper": {
+        "scissors": 3,
+        "paper": 1
+    },
+    "scissors": {
+        "rock": 2,
+        "paper": 1
+    }
+}
