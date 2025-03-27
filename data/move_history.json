@@ -1,10 +1,10 @@
 {
     "rock": {
-        "paper": 2,
+        "paper": 3,
         "rock": 1
     },
     "paper": {
-        "scissors": 3,
+        "scissors": 4,
         "paper": 1
     },
     "scissors": {

@@ -1,16 +1,6 @@
 import json
 import random
 import os
-from collections import defaultdict
-
-DATA_DIR = os.path.join(os.path.dirname(__file__), "../data")
-DATA_FILE = os.path.join(DATA_DIR, "move_history.json")
-
-
-import json
-import random
-import os
-from collections import defaultdict
 
 DATA_DIR = os.path.join(os.path.dirname(__file__), "../data")
 DATA_FILE = os.path.join(DATA_DIR, "move_history.json")
